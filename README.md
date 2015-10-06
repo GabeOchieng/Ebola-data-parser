@@ -1,7 +1,8 @@
 
 # Ebola-data-parser
 
-PLEASE PREVIEW IN RAW FORMAT TO READ CLEARLY
+PLEASE PREVIEW IN RAW FORMAT TO READ CLEARLY.
+
 This is a python script that parses the Ebola data provided by the WHO through HDX database and converts it into a simple format that can be imported as a variable into MATLAB or Octave.
 
 An example of expected input is in the following format:
