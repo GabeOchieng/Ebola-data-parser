@@ -43,3 +43,4 @@ Expected output (unrelated to input because of size constraints of the input fil
 161 8084.0
 160 8063.0
 159 8059.0
+158 8059.0
